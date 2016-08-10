@@ -1,0 +1,6 @@
+{
+  "name": "Smtpmailsender",
+  "tagline": "SMTP를 이용해 메일을 보내는 C# Form 프로그램. Gmail용",
+  "body": "SMTP를 이용해 메일을 보내는 Gmail용 C# Form 프로그램입니다.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
