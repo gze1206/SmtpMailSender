@@ -1,0 +1,10 @@
+D:\MailSender\MailSender\bin\Release\MailSender.exe.config
+D:\MailSender\MailSender\bin\Release\MailSender.exe
+D:\MailSender\MailSender\bin\Release\MailSender.pdb
+D:\MailSender\MailSender\obj\Release\MailSender.csprojResolveAssemblyReference.cache
+D:\MailSender\MailSender\obj\Release\MailSender.Form1.resources
+D:\MailSender\MailSender\obj\Release\MailSender.Properties.Resources.resources
+D:\MailSender\MailSender\obj\Release\MailSender.csproj.GenerateResource.Cache
+D:\MailSender\MailSender\obj\Release\MailSender.exe
+D:\MailSender\MailSender\obj\Release\MailSender.pdb
+D:\MailSender\MailSender\obj\Release\MailSender.Help.resources

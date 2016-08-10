@@ -1,0 +1,9 @@
+D:\MailSender\MailSender\bin\Debug\MailSender.exe.config
+D:\MailSender\MailSender\bin\Debug\MailSender.exe
+D:\MailSender\MailSender\bin\Debug\MailSender.pdb
+D:\MailSender\MailSender\obj\Debug\MailSender.csprojResolveAssemblyReference.cache
+D:\MailSender\MailSender\obj\Debug\MailSender.Form1.resources
+D:\MailSender\MailSender\obj\Debug\MailSender.Properties.Resources.resources
+D:\MailSender\MailSender\obj\Debug\MailSender.csproj.GenerateResource.Cache
+D:\MailSender\MailSender\obj\Debug\MailSender.exe
+D:\MailSender\MailSender\obj\Debug\MailSender.pdb
